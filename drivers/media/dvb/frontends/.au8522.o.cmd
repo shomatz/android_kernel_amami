@@ -1,0 +1,1 @@
+cmd_drivers/media/dvb/frontends/au8522.o := /home/z/arm-eabi-4.6/bin/arm-eabi-ld -EL    -r -o drivers/media/dvb/frontends/au8522.o drivers/media/dvb/frontends/au8522_dig.o drivers/media/dvb/frontends/au8522_decoder.o 

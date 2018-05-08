@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/built-in.o :=  /home/z/arm-eabi-4.6/bin/arm-eabi-ld -EL    -r -o drivers/input/touchscreen/built-in.o drivers/input/touchscreen/clearpad_rmi_dev.o drivers/input/touchscreen/clearpad_core.o drivers/input/touchscreen/clearpad_i2c.o drivers/input/touchscreen/gen_vkeys.o 

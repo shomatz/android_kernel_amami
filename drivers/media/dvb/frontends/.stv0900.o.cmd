@@ -1,0 +1,1 @@
+cmd_drivers/media/dvb/frontends/stv0900.o := /home/z/arm-eabi-4.6/bin/arm-eabi-ld -EL    -r -o drivers/media/dvb/frontends/stv0900.o drivers/media/dvb/frontends/stv0900_core.o drivers/media/dvb/frontends/stv0900_sw.o 

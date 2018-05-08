@@ -1,0 +1,5 @@
+kernel/drivers/misc/pn544.ko
+kernel/drivers/misc/pm8941-flash.ko
+kernel/drivers/misc/qpnp-vibrator.ko
+kernel/drivers/misc/qseecom.ko
+kernel/drivers/misc/qpnp-misc.ko
